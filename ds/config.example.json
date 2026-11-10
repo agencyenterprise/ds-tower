@@ -1,0 +1,34 @@
+{
+  "collections": {
+    "hunches": {
+      "label": "Hunches",
+      "description": "Ideas not yet tested, one file each (template: ds/standard/hunch.md). A researcher's new idea lands here for another researcher to pick up."
+    },
+    "methods": {
+      "label": "Methods",
+      "description": "One card per idea being explored (template: ds/standard/method-card.md): its registered test, baseline, results, decisions and evaluation."
+    },
+    "decisions": {
+      "label": "Decisions",
+      "description": "Digests of decisions made on the floor that the user should know about, written by the decisions role."
+    },
+    "stories": {
+      "label": "Stories",
+      "description": "Slide decks and write-ups telling what the research team is doing, written by the storyteller."
+    }
+  },
+  "extensions": {
+    "roles": {
+      "path": "<abs path to your ds-tower checkout>/examples/extensions/roles",
+      "settings": {
+        "roles": {
+          "researcher":    { "model": "opus",   "hires": false },
+          "methodologist": { "model": "opus",   "hires": false, "consultable": true },
+          "evaluator":     { "model": "opus",   "hires": false },
+          "storyteller":   { "model": "sonnet", "hires": false },
+          "decisions":     { "model": "sonnet", "hires": false }
+        }
+      }
+    }
+  }
+}
