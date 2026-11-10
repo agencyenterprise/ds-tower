@@ -1,5 +1,8 @@
 # Hunch: <one line>
 
+- **Status:** queued | taken | done | dropped
+- **Priority:** normal | high
+- **Taken by:** <researcher callsign, once taken>
 - **Came from:** <the method card it grew out of, or "new">
 - **Kept by:** <callsign or person>, <date>
 

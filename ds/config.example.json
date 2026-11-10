@@ -2,7 +2,7 @@
   "collections": {
     "hunches": {
       "label": "Hunches",
-      "description": "Ideas not yet tested, one file each (template: ds/standard/hunch.md). A researcher's new idea lands here for another researcher to pick up."
+      "description": "The idea queue: ideas waiting to be explored, one file each with its status (template: ds/standard/hunch.md, rules: ds/standard/queue.md). A researcher's new idea lands here for another researcher to pick up."
     },
     "methods": {
       "label": "Methods",

@@ -59,6 +59,9 @@ and setup: `ds/README.md`.
 - **Evaluator:** makes sure the final results respect that agreement.
 - **Storyteller:** tells the story of what is going on in a user-friendly way (slides, for instance).
 - **Decisions:** exposes to the user the decisions made that the user should be aware of.
+- **The idea queue** (2026-11-10): ideas waiting to be executed live in the `hunches` collection, one file each with
+  a status (`ds/standard/queue.md`). Spinning up researchers for queued ideas is the next piece of work, parked for
+  now: the user starts each researcher by hand until then.
 
 ## The method standard
 
@@ -82,7 +85,8 @@ approves.
 - Where datasets and results live: in the repo, on a shared drive, or in Snowflake, and what is safe to commit.
 - Whether the standard should be enforced (a policy or check that refuses a method card without a baseline) or only
   taught (a skill workers read).
-- Who starts researchers and hands out hunches. Today the user does: no role hires. A coordinator role is the
-  obvious next one if that becomes too much.
+- Spinning agents for new ideas (parked 2026-11-10): who takes the next queued idea and starts its researcher. Today
+  the user does it by hand: no role hires. Candidates: a coordinator role that hires, a tower policy that runs on a
+  slot, or an extension. The queue's status lives inside each file, so `tower kept hunches` does not show it yet.
 - Research floors that are not this repo read `ds/standard/` by its path in the ds-tower checkout. Whether the
   standard should also be a collection or a skill, so it reaches any floor, is open.

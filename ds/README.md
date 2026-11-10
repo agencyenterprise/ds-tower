@@ -9,7 +9,8 @@ roles can be added, removed and changed by editing files, and the whole team pul
 |---|---|
 | `roles/<role>.md` | One job description per role. It joins the system prompt of every worker in that role. The user writes and owns these. |
 | `standard/method.md` | The ways of working: how research is conducted, the agreement the evaluator checks. Kept by the methodologist, changed only by a reviewed pull request. |
-| `standard/hunch.md`, `standard/method-card.md` | Templates for a hunch and a method card. |
+| `standard/queue.md` | The idea queue: how ideas wait in `hunches`, in what order, and how one is taken and closed. |
+| `standard/hunch.md`, `standard/method-card.md` | Templates for a hunch (an item in the queue) and a method card. |
 | `config.example.json` | The collections and the `roles` extension settings to add to your `~/.tower/config.json`. |
 | `link-roles.sh` | Points a floor's `roles.prompts` collection at `roles/`, so workers read the files in git. |
 

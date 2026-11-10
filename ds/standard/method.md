@@ -6,7 +6,7 @@ methodologist keeps it; every change is a pull request on the fork, approved by 
 Each step leaves a file, so a reread brings the idea back in full.
 
 1. **Hunch.** Write the idea down with what would change if it were true, and keep it (`tower keep hunches`, from
-   `hunch.md`).
+   `hunch.md`). It joins the idea queue (`queue.md`).
 2. **One researcher, one idea.** A researcher explores the one idea in their brief. A new idea found on the way
    becomes a hunch for another researcher, never extra scope.
 3. **Smallest test, registered first.** Before running anything, one line on the method card: the smallest test of
