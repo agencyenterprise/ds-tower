@@ -8,6 +8,16 @@
 
 <What this method answers.>
 
+## Before starting
+
+<Agreed with the user before any run (step 0 of method.md). The work waits until all four are filled.>
+
+- **Data in:** <source, population, grain, snapshot>
+- **Reference and comparison:** <the reference data, if any, and how the comparison is made; the same for every
+  method on this task>
+- **Story:** <what this work has to explain, in a few plain sentences, no technical details>
+- **Evaluation:** <how results are judged, and labeled examples of each kind of outcome, fabricated ones marked>
+
 ## Registered test
 
 <Written before running anything: the smallest test, and the result that counts as worked or failed.>

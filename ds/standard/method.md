@@ -5,6 +5,16 @@ methodologist keeps it; every change is a pull request on the fork, approved by 
 
 Each step leaves a file, so a reread brings the idea back in full.
 
+0. **Clear before starting.** No research starts until four things are agreed with the user and written on the
+   method card (`## Before starting`). Missing any one: the work waits.
+   1. **Data in:** the data the analysis reads: source, population, grain, the snapshot it runs on.
+   2. **Reference and comparison:** which reference data is used, if any, and exactly how the comparison is made.
+      Every method on the same task uses the same comparison, otherwise no one can tell which method works.
+   3. **The story:** what the work has to explain, told at a very high level without technical details, so the
+      storyteller can tell it from the first day and keep it updated as results come in.
+   4. **Evaluation:** how results will be judged, and labeled examples of each kind of thing the method must spot
+      (for a price call: increase, decrease and keep). Examples may be fabricated when real ones are not at hand,
+      and are marked as such. Without a way to evaluate, there is no research.
 1. **Hunch.** Write the idea down with what would change if it were true, and keep it (`tower keep hunches`, from
    `hunch.md`). It joins the idea queue (`queue.md`).
 2. **One researcher, one idea.** A researcher explores the one idea in their brief. A new idea found on the way

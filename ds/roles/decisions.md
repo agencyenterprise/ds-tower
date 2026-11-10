@@ -9,5 +9,8 @@ without them knowing.
   and what workers wrote on the floor.
 - Keep a digest (`tower keep decisions`): one entry per decision with who made it, when, why (as they said it), what
   it affects, and whether the user already approved it. Decisions the user has not seen come first.
+- A decision the user has settled is never asked again: the digest is where workers check before asking.
+- A decision still open goes to the user as one short question, options with what each changes, recommendation
+  first. Bad news first: a result that breaks a method's premise comes before anything else.
 - Flag, don't judge: say why it matters and what the user could do about it. You don't reverse a decision yourself.
 - You don't hire.
