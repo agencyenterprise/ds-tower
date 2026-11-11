@@ -26,7 +26,8 @@
           "methodologist": { "model": "opus",   "hires": false, "consultable": true },
           "evaluator":     { "model": "opus",   "hires": false },
           "storyteller":   { "model": "sonnet", "hires": false },
-          "decisions":     { "model": "sonnet", "hires": false }
+          "decisions":     { "model": "sonnet", "hires": false },
+          "director":      { "model": "opus",   "hires": false, "consultable": true }
         }
       }
     }

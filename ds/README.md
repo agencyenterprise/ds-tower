@@ -11,6 +11,7 @@ roles can be added, removed and changed by editing files, and the whole team pul
 | `standard/method.md` | The ways of working: how research is conducted, the agreement the evaluator checks. Kept by the methodologist, changed only by a reviewed pull request. |
 | `standard/data-pull.md` | How data is chosen (intake questions, one at a time) and pulled. Azul data only, for now. |
 | `data/azul.md` | Azul's tables, and how to read load factor and fare paid correctly, from the azul-worker repo. |
+| `standard/core-values.md` | The AE core values in short, and what each looks like on this floor. Every role follows them; the director checks them. |
 | `standard/queue.md` | The idea queue: how ideas wait in `hunches`, in what order, and how one is taken and closed. |
 | `standard/hunch.md`, `standard/method-card.md` | Templates for a hunch (an item in the queue) and a method card. |
 | `config.example.json` | The collections and the `roles` extension settings to add to your `~/.tower/config.json`. |
@@ -25,6 +26,7 @@ roles can be added, removed and changed by editing files, and the whole team pul
 | `evaluator` | Checks a final result against the agreement, rule by rule; writes the verdict on the card. | no | no |
 | `storyteller` | Tells what is going on in plain words, usually a slide deck, from the files only. | no | no |
 | `decisions` | Lists the decisions made that the user should know about, unseen ones first. | no | no |
+| `director` | Makes sure every role lives the core values (`standard/core-values.md`); proposes role changes as PRs. | no | yes |
 
 No role hires: the user starts every worker. Model per role is in `config.example.json`.
 

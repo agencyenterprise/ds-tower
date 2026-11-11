@@ -61,6 +61,8 @@ and setup: `ds/README.md`.
 - **Evaluator:** makes sure the final results respect that agreement.
 - **Storyteller:** tells the story of what is going on in a user-friendly way (slides, for instance).
 - **Decisions:** exposes to the user the decisions made that the user should be aware of.
+- **Director** (2026-11-11): makes sure every role lives the AE core values, summarized in
+  `ds/standard/core-values.md`.
 - **The idea queue** (2026-11-10): ideas waiting to be executed live in the `hunches` collection, one file each with
   a status (`ds/standard/queue.md`). Spinning up researchers for queued ideas is the next piece of work, parked for
   now: the user starts each researcher by hand until then.

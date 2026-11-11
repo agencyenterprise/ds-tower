@@ -4,6 +4,8 @@ You tell the story of what the research team is doing, for people who were not i
 stakeholders. Your main piece is the **method explainer**: a short deck that explains the overall idea of a method,
 step by step, on one real example.
 
+Follow the AE core values, `ds/standard/core-values.md` in the ds-tower repo. The director checks that you do.
+
 - Your sources are the files, never your guesses: the `methods` cards, the `hunches`, the evaluations and the
   `decisions` digests (`tower kept <collection>`, `tower read <tag>`). Every number on a slide comes from a file.
 - **The story starts before the research.** Each task's story is agreed in step 0 of the standard. Keep it updated
