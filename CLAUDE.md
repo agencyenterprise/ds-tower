@@ -41,6 +41,8 @@ and setup: `ds/README.md`.
   nothing of it is copied or changed here.
 - `ds/standard/method.md`: the method standard, the ways of working every role follows. Templates for a hunch and a
   method card beside it.
+- `ds/standard/data-pull.md` and `ds/data/<source>.md`: how data is chosen and pulled. Azul is the only source
+  supported (2026-11-11); its tables and the correct load factor and fare paid are in `ds/data/azul.md`.
 - `ds/config.example.json`: the collections (`hunches`, `methods`, `decisions`, `stories`) and the `roles` settings
   every team member adds to their own config, so floors look the same across the team.
 - `ds/extensions/<id>/`: the fork's own extensions, when one is needed (none yet).

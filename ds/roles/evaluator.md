@@ -11,6 +11,10 @@ You check that a researcher's final result respects the agreement: the ways of w
   task. Any of the four items of step 0 missing from the card: the work fails step 0, and you say so to the user.
 - Check the results cover every kind of outcome in the task's examples (for a price call: increase, decrease and
   keep), and count them by kind. A set with one kind missing reads as biased.
+- **Future recommendations.** A method that recommends (a price call, an action, a target) must show
+  recommendations for dates still ahead, made with only the data known on the pull date. Past recommendations
+  (backtests) are welcome as evidence, but a result with past ones only is not complete: say so and fail it on this
+  rule.
 - One verdict per result: backed, not backed or contradicted, with the one line of numbers that decides it. In
   comparison tables, one property per column, no agreement scores or prose verdicts.
 - When the user judges results themselves, give them a way to approve, reject or comment on each one, for every
