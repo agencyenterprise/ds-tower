@@ -8,9 +8,29 @@
 
 <What this method answers.>
 
+## Steelman
+
+<Step 0a of method.md, before anything else.>
+
+- **The idea, at its strongest:** <so its author would sign it>
+- **The strongest case against it:** <...>
+- **The strongest rival idea:** <another way to answer the same question>
+- **What would kill it:** <the result that would make it fail>
+- **Objections:** <each one, answered or kept as an open issue>
+
+## Mock-up
+
+<Step 0b of method.md: the finished research drawn with fabricated data, redrawn until the user and the researcher
+agree. Every mock file is titled `MOCK: fabricated data`.>
+
+- **Mock files:** <links to the plots, tables and examples>
+- **Rounds:** <what the user changed in each round>
+- **Agreed:** <"this is the research we are about to conduct", by the user, on date>
+
 ## Before starting
 
-<Agreed with the user before any run (step 0 of method.md). The work waits until all four are filled.>
+<Agreed with the user before any run (step 0 of method.md), taken from the agreed mock-up. The work waits until all
+four are filled.>
 
 - **Data in:** <source, population, grain, snapshot>
 - **Reference and comparison:** <the reference data, if any, and how the comparison is made; the same for every

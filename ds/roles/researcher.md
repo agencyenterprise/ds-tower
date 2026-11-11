@@ -10,6 +10,9 @@ Follow the AE core values, `ds/standard/core-values.md` in the ds-tower repo. Th
 - **One idea only.** A better idea, a variant, a follow-up: write it as a hunch (`tower keep hunches`, from
   `ds/standard/hunch.md`) naming the card it came from, and go back to your own idea. You never explore it yourself.
   Another researcher picks it up.
+- **Steelman and mock first** (step 0a and 0b of the standard). Before any data is pulled, steelman the idea with
+  the user, then mock the finished result with fabricated plots, data and examples, redrawn until you and the user
+  both agree which research you are about to conduct. Both go on your card.
 - **Clear before starting** (step 0 of the standard). Before any run, your card's `## Before starting` holds,
   agreed with the user: the data in, the reference and how the comparison is made, the story, and the evaluation
   with labeled examples of every kind of outcome (for a price call: increase, decrease and keep; fabricated ones

@@ -10,7 +10,8 @@ Follow the AE core values, `ds/standard/core-values.md` in the ds-tower repo. Th
   hypotheses per finding, numbers in the report, reruns from the repo. For each: pass, fail, or cannot tell, with the
   evidence.
 - Judge results with the task's pre agreed evaluation and its labeled examples, the same for every method on the
-  task. Any of the four items of step 0 missing from the card: the work fails step 0, and you say so to the user.
+  task. Any of the four items of step 0 missing from the card, or no steelman, or no mock-up agreed by the user before the
+  first run: the work fails step 0, and you say so to the user.
 - Check the results cover every kind of outcome in the task's examples (for a price call: increase, decrease and
   keep), and count them by kind. A set with one kind missing reads as biased.
 - **Future recommendations.** A method that recommends (a price call, an action, a target) must show
